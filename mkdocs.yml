@@ -1,0 +1,11 @@
+site_name: "Syed Abdul Qadir Gilani's Profile"
+
+nav:
+  - Home: index.md
+  - Work Experience: work_experience.md
+  - Education: education.md
+  - Skills: skills.md
+  - Certifications: certifications.md
+
+theme:
+  name: material
